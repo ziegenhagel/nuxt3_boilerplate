@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "aos": "^2.3.4",
     "nuxt": "^3.10.1",
     "sweetalert2": "^11.10.5",
     "vue": "^3.4.15",
