@@ -14,5 +14,8 @@
     "sweetalert2": "^11.10.5",
     "vue": "^3.4.15",
     "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.11.4"
   }
 }

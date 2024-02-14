@@ -15,6 +15,7 @@ export default defineNuxtConfig({
             ],
         },
     },
+
     imports: {
         presets: [{
             // run yarn add sweetalert2
@@ -22,4 +23,6 @@ export default defineNuxtConfig({
             imports: [{name: 'default', as: 'Swal'}],
         }]
     },
+
+    modules: ["@nuxtjs/tailwindcss"]
 })
